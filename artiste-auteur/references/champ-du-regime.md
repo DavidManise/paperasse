@@ -2,6 +2,10 @@
 
 *Sources consultées le 03/10/2026 : CSS L. 382-1, R. 382-1, R. 382-1-1, R. 382-1-2 ; CPI L. 112-2 ; urssaf.fr « Vérifier que votre activité relève du régime » (31/03/2026) ; secu-artistes-auteurs.fr « Les écrivains », fiche « Activités accessoires » (mai 2022).*
 
+## 0. Ce n'est pas un choix
+
+Service-public F22428 (vérifié 01/06/2026) : « Une activité créative relève **obligatoirement** du régime de protection sociale des artistes-auteurs. Vous ne pouvez pas facturer vos œuvres d'artiste-auteur à travers une micro-entreprise. » Les activités annexes (produits, services) relèvent, elles, de la micro-entreprise, sous le même SIREN. La nomenclature des revenus (instruction DSS/5B/DGCA/2023/6 du 12/01/2023) a été validée par le Conseil d'État (16/10/2024, n° 472016).
+
 ## 1. Le critère
 
 Une rémunération relève du régime lorsqu'elle est perçue **en contrepartie de la création, de l'utilisation ou de la diffusion d'une œuvre de l'esprit** (CPI L. 112-2 : livres, brochures et autres écrits littéraires, artistiques et scientifiques ; œuvres dramatiques, musicales, audiovisuelles, graphiques, plastiques, photographiques ; logiciels originaux…). Ce qui compte, c'est l'**œuvre**, pas le canal de vente ni le support.
@@ -21,7 +25,7 @@ Une rémunération relève du régime lorsqu'elle est perçue **en contrepartie 
 
 L'URSSAF cite nommément parmi les activités éligibles : **écrivain** (romans, essais, ouvrages pratiques, biographies…), **blogueur** (« vous rédigez du contenu et des articles que vous publiez sur votre site internet »), collaborateur occasionnel non journaliste.
 
-→ Des **essais, articles, analyses, newsletters** écrits et vendus par abonnement sur une plateforme (Patreon, Substack) entrent dans ce champ par leur nature d'écrits ; le canal (plateforme d'abonnement) n'y fait pas obstacle (autoédition via plateformes, diffuseur étranger). Aucune source ne nomme Patreon explicitement : le dire.
+→ Des **essais, articles, analyses, newsletters** écrits et vendus par abonnement sur une plateforme (Patreon, Substack) entrent dans ce champ par leur nature d'écrits ; le canal n'y fait pas obstacle (autoédition via plateformes, diffuseur étranger). Nature d'œuvre à déclarer : « textes non publiés sous forme de livre à compte d'éditeur » (essais, textes scientifiques, pédagogiques). Aucune source ne nomme Patreon explicitement : le dire. Détail : [plateformes.md](plateformes.md).
 
 ## 4. Hors champ (→ micro-entreprise, salariat ou autre régime)
 

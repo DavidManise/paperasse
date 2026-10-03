@@ -139,7 +139,9 @@ Demander **une chose à la fois** : nature des œuvres (écrits, images, sons…
 - Rien n'est précompté ni déclaré par la plateforme ; **tout** est à la charge de l'auteur.
 - Reconstituer les encaissements **par année civile** depuis la page des versements (ou l'API) et les relevés bancaires ; distinguer brut payé par les abonnés et net reversé.
 - Si l'offre est mixte (écrits + accès communauté/Q&R), isoler la part « œuvre ».
-- DAC7 : signaler ce que la plateforme déclare ou non (voir plateformes.md) sans jamais en faire une raison de ne pas déclarer.
+- **Ce n'est pas un choix** : les œuvres ne peuvent pas être facturées via une micro-entreprise (service-public F22428) ; la case est le régime artistes-auteurs, nature « Auto-édition, auto-diffusion », en BNC.
+- TVA : Patreon collecte et reverse la TVA en son nom (fournisseur réputé) → aucune TVA à déclarer sur ces ventes ; en revanche, un auteur en franchise qui paie des **frais** à une plateforme étrangère doit en principe demander un n° intracom et **autoliquider** (service-public F37527) — à poser au comptable.
+- DAC7 : Patreon ne déclare que les créateurs offrant un « service personnel » (chat, Q&R, shout-out, appel…) **mais alors la totalité de leurs revenus** ; un contenu écrit pur n'est a priori pas transmis. Le dire, sans jamais en faire une raison de ne pas déclarer (voir plateformes.md).
 
 ### Pour un auteur qui a aussi une activité de formation/conseil
 - Deux structures, deux comptabilités ; **plafond TVA 35 000 / 38 500 €** pour la formation/conseil (pas 37 500 €).
