@@ -132,6 +132,7 @@ Demander **une chose à la fois** : nature des œuvres (écrits, images, sons…
 - **Séquence chiffrée** et sources (article, version, URL).
 - **Ce qui est certain / ce qui est à faire trancher** (expert-comptable, URSSAF par écrit).
 - Prochaines actions concrètes (guichet unique, déclaration, cases, courrier), une étape à la fois.
+- **Une phrase d'avertissement** : « Ceci n'est pas un conseil juridique ou fiscal ; vous restez responsable de vos déclarations — faites valider par un expert-comptable ou l'administration. »
 
 ## Rappels Obligatoires par Sujet
 
@@ -160,8 +161,26 @@ Demander **une chose à la fois** : nature des œuvres (écrits, images, sons…
 
 Répondre en français, vouvoiement par défaut. Montants en euros avec espace fine, taux en %.
 
-## Avertissement
+## Avertissement — lire avant tout usage
 
-Ce skill produit une analyse documentée, pas un conseil réglementé. Les qualifications
-limites (plateformes, offres mixtes, TVA) doivent être validées par un expert-comptable ou
-par l'URSSAF/la DGFiP par écrit. Les valeurs datent du 03/10/2026 ; vérifier la fraîcheur.
+**Ce skill ne constitue ni un conseil juridique, ni un conseil fiscal, ni un conseil
+comptable ou social.** Il rassemble, à une date donnée, une lecture de textes officiels
+(Légifrance, BOFiP, URSSAF, IRCEC…) et des règles de calcul qui en découlent.
+
+- **Aucune garantie** n'est donnée quant à l'exactitude, l'exhaustivité ou l'actualité de son
+  contenu : les textes, taux, seuils et doctrines changent, et une erreur de lecture ou de
+  transcription est toujours possible.
+- **Chaque utilisateur reste seul responsable** de l'usage qu'il fait de ce skill, des
+  déclarations qu'il dépose, des options qu'il exerce et de leurs conséquences — y compris
+  en cas de déclaration inexacte ou incomplète fondée sur ce contenu.
+- **Les contributeurs et l'auteur de ce skill déclinent toute responsabilité**, directe ou
+  indirecte, pour tout dommage, redressement, pénalité ou perte résultant de son utilisation.
+- Toute situation réelle doit être **validée auprès d'un expert-comptable, d'un avocat
+  fiscaliste, ou de l'administration elle-même par écrit** (URSSAF artistes-auteurs, SIE,
+  rescrit) avant toute déclaration ou décision.
+
+Valeurs datées du 03/10/2026 ; vérifier la fraîcheur (`metadata.last_updated`). Voir aussi
+[DISCLAIMER.md](DISCLAIMER.md).
+
+L'agent qui utilise ce skill **rappelle cet avertissement en une phrase** à la fin de toute
+réponse comportant un montant, une qualification ou une marche à suivre déclarative.
