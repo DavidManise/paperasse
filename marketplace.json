@@ -34,9 +34,18 @@
       "name": "Syndic de Copropriété",
       "path": "syndic/SKILL.md",
       "description": "Gestion complète de copropriété, AG, appels de fonds, comptabilité, travaux, contentieux"
+    },
+    {
+      "slug": "artiste-auteur",
+      "name": "Artiste-Auteur",
+      "path": "artiste-auteur/SKILL.md",
+      "description": "Régime des artistes-auteurs : champ, affiliation URSSAF, précompte / sans précompte (plateformes, autoédition), cotisations 2026, RAAP, TVA (franchises spécifiques), IR (TS vs BNC), régularisation de revenus non déclarés"
     }
   ],
-  "integrations": ["qonto", "stripe"],
+  "integrations": [
+    "qonto",
+    "stripe"
+  ],
   "language": "fr",
   "country": "FR"
 }

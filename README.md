@@ -65,7 +65,7 @@ Voir [l'installation manuelle](docs/manual-install.md) pour les commandes Codex 
 
 ---
 
-## Les 6 skills
+## Les 7 skills
 
 | Skill | Rôle | Ce qu'il fait |
 |-------|------|---------------|
@@ -73,6 +73,7 @@ Voir [l'installation manuelle](docs/manual-install.md) pour les commandes Codex 
 | **`controleur-fiscal`** | Contrôleur Fiscal | Simulation de contrôle DGFIP sur 8 axes, chefs de redressement avec base légale et montants |
 | **`commissaire-aux-comptes`** | Commissaire aux Comptes | Audit NEP en 7 phases, validation croisée bilan/CR/liasse, opinion motivée |
 | **`fiscaliste`** | Fiscaliste Particuliers | Fiscalité personnelle : IR (barème, QF, décote, plafonnement), IFI, PFU vs barème, PEA, assurance-vie, LMNP (micro/réel), RSU/BSPCE/stock-options, crypto (PAMC), PER, quotient revenus exceptionnels, CEHR |
+| **`artiste-auteur`** | Artiste-Auteur | Régime des artistes-auteurs : champ (œuvres vs services, revenus accessoires), affiliation URSSAF, précompte vs sans précompte (plateformes d'abonnement, autoédition), cotisations 2026 et assiette, RAAP/IRCEC, droits ouverts, TVA (franchises spécifiques 50 000 / 35 000 €, taux 10 %, retenue des éditeurs), IR (TS vs BNC, 2042 C PRO), DAC7, régularisation de revenus non déclarés |
 | **`notaire`** | Notaire | Frais de notaire, plus-value immobilière, successions, donations, SCI, PACS, diagnostics, conseil patrimonial |
 | **`syndic`** | Syndic de Copropriété | Gestion d'un parc de copropriétés : AG, appels de fonds, comptabilité (décret 2005), travaux, fournisseurs, impayés, transition de syndic |
 
